@@ -83,5 +83,5 @@ This project was based on the a repository by *@rcbonz*, check out his repositor
 
 ### Future Improvements
 - HouseKeeping & Code Beautification
-- Python3 Compatible, while maintainig cross-compatibility
+- Python3 Compatible, while maintaining cross-compatibility
 
